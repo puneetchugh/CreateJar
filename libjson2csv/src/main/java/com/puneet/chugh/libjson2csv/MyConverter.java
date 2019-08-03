@@ -22,6 +22,12 @@ import java.util.TreeSet;
 public class MyConverter {
     private final String LOG_TAG = "json2Csv";
 
+    /***********************************************************************************************
+     *
+     * @param inputFile - full file path of input file
+     * @param outputFile - full file path of output file
+     * @throws Exception
+     **********************************************************************************************/
     public void json2Csv(File inputFile, File outputFile) throws Exception {
 
         try {
