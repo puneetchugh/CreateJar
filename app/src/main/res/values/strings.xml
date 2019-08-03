@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Json2Csv</string>
+    <string name="grant_permissions">Grant Permission(s)</string>
+    <string name="permission_rationale">To perform the operation, you need to grant permission</string>
+    <string name="json_2_csv">Json-to-Csv</string>
+</resources>
